@@ -15,3 +15,7 @@ header h1 {
   color: #fce138;
   margin: 0;
 }
+
+header a {
+  color: #fce138;
+}
