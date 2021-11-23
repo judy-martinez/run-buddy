@@ -60,3 +60,7 @@ footer div {
   line-height: 1.5;
   text-align: right;
 }
+
+footer a {
+  color: #024e76;
+}
