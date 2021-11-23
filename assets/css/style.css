@@ -23,4 +23,5 @@ header a {
 
 header nav {
   float: right;
+  margin: 7px 0;
 }
