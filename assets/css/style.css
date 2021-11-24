@@ -91,3 +91,7 @@ section {
   bottom: 120px;
   right: 140px;
 }
+
+.hero-form p {
+  margin: 5px 0 15px 0;
+}
