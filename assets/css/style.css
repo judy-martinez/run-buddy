@@ -103,4 +103,5 @@ section {
 
 .form-input {
   border: 1px solid #024e76
+  display: block;
 }
