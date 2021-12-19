@@ -158,6 +158,10 @@ section {
   font-size: 16px;
   border-radius: 10px;
 }
+
+.hero-form button:hover {
+  background-color: #39a6b2;
+}
 /* HERO STYLES END */
 
 /* Section title styles start */
@@ -348,6 +352,11 @@ section {
   border-radius: 10px;
 }
 
+.contact-form button:hover {
+  color: #fce138;
+  background: #39a6b2;
+}
+
 .contact-info a {
   color: #fce138;
 }
@@ -394,6 +403,13 @@ section {
 
   header nav ul li a {
     font-size: 20px;
+  }
+
+  header nav ul li a:host-context {
+    background: #fce138;
+    color: #024e76;
+    border-radius: 15px;
+    text-shadow: none;
   }
 
   footer h2, footer div {
