@@ -17,6 +17,11 @@ header {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  background-image: url("../images/hero-bg.jpg");
+  background-size: cover;
   background-attachment: fixed;
   background-position: 80%;
 }
@@ -123,7 +128,7 @@ section {
 
 .hero-form {
   border: 3px solid #024e76;
-  background-color: rgba(252, 225, 56, 0.8);
+  background-color: rgba(255, 225, 56, 0.8);
   padding: 20px;
   color: #024e76;
   width: 40%;
@@ -178,8 +183,8 @@ section {
 /* Section title styles start */
 .section-title {
   font-size: 48px;
-  color: #024e76;
   border-bottom: 3px solid;
+  color: #024e76;
   padding-bottom: 20px;
   text-align: center;
   margin: 0 auto 35px auto;
@@ -200,8 +205,8 @@ section {
   line-height: 1.7;
   color: #39a6b2;
   width: 80%;
-  font-size: 20px;
   margin: 0 auto;
+  font-size: 20px;
   text-align: center;
 }
 /* WHAT WE DO STYLES END */
