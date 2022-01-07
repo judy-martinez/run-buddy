@@ -1,7 +1,7 @@
 # Run Buddy, Inc
 
 ## Purpose
-Class activity: A website that offers fitness training services.
+Class activity: A website that offers fitness training services. Contains merge issues
 
 ## Built With
 *HTML
