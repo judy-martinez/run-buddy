@@ -8,7 +8,7 @@ Class activity: A website that offers fitness training services.
 *CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://judy-martinez.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Judy Martinez
